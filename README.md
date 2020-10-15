@@ -1,4 +1,4 @@
-# This will you get a job ;)
+# This will gets you a job ;)
 
 # calculator
 Calculator excercise
